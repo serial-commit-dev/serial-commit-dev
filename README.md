@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Neeraj
 
-<!--
-**serial-commit-dev/serial-commit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on web technologies and hardware programming. I’ve built and published two websites using GitHub Pages, and I’m currently learning C++ through Arduino projects.
 
-Here are some ideas to get you started:
+My journey started with HTML and CSS, and I’ve been learning by building, experimenting, and using AI tools to support my growth. I'm also looking forward to working with Raspberry Pi to expand my hardware skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+- **Languages**: HTML, CSS, C++
+- **Platforms**: GitHub Pages
+- **IDEs**: WebStorm
+- **Hardware**: Arduino (basic projects), exploring Raspberry Pi
+
+---
+
+### 📚 Current Focus
+
+- Building responsive websites with HTML & CSS
+- Programming Arduino with C++
+- Getting started with Raspberry Pi
+- Learning through hands-on experimentation
+
+---
+
+Thanks for visiting my profile!
