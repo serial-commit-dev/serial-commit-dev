@@ -24,4 +24,26 @@ My journey started with HTML and CSS, and I’ve been learning by building, expe
 
 ---
 
+## 📊 Contributor Stats
+
+
+
+![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=serial-commit-dev&show_icons=true&theme=radical)
+![Neeraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serial-commit-dev&layout=compact)
+
+---
+
+## 🏆 Achievements
+
+
+
+- 🚀 Published my portfolio website using GitHub Pages
+- 🔌 Built several Arduino projects and shared code on GitHub
+- 📦 Contributed to open-source repositories
+- 🥇 Completed 55 commits in a year
+- 🎂 Celebrating my 16th birthday as a developer!
+
+
+---
+
 Thanks for visiting my profile!
