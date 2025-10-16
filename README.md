@@ -40,7 +40,6 @@ My journey started with HTML and CSS, and I’ve been learning by building, expe
 - 🚀 Published my portfolio website using GitHub Pages
 - 🔌 Built several Arduino projects and shared code on GitHub
 - 📦 Contributed to open-source repositories
-- 🥇 Completed 55 commits in a year
 - 🎂 Celebrating my 16th birthday as a developer!
 
 
