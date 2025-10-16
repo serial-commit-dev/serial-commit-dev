@@ -28,7 +28,7 @@ My journey started with HTML and CSS, and I’ve been learning by building, expe
 
 
 
-![Neeraj's GitHub stats][(https://github-readme-stats.vercel.app/api?username=serial-commit-dev&theme=radical&show_icons=true&hide_title=true)]
+![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=serial-commit-dev&theme=radical&show_icons=true&hide_title=true)
 ![Neeraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serial-commit-dev&layout=compact)
 
 ---
