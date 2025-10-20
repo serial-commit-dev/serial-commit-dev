@@ -24,9 +24,9 @@ My journey started with HTML and CSS, and I’ve been learning by building, expe
 
 ---
 
-###🌐 Recent API Project
+*Recent API Project*
 
-I recently started learning about APIs and quickly built a JavaScript project that connects to the SheetDB API. This project sends, retrieves, and validates data in a Google Sheet, with error handling and clear test results.
+I recently started learning about APIs and quickly built a JavaScript project that connects to the SheetDB API. This project sends, retrieves, and validates data in a Google Sheet, with error handling and clear test results.  
 It’s been a fun way to dive into backend concepts, HTTP methods (GET, POST), and real-world data integration—all within days of starting my API journey!
 
 ---
