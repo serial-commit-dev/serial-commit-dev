@@ -36,7 +36,7 @@ It’s been a fun way to dive into backend concepts, HTTP methods (GET, POST), a
 
 
 ![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=serial-commit-dev&theme=radical&show_icons=true&hide_title=true&hide_border=true)
-![Neeraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serial-commit-dev&theme=onedark&layout=compact)
+![Neeraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serial-commit-dev&layout=compact&theme=radical&hide_title=true&hide_border=true)
 
 ---
 
