@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://your-repo-link/assets/frontend-dev-neon.png" alt="Frontend Dev Neon Banner" />
-</p>
-
-
-
 # 👋 Hi, I'm Neeraj
 
 I'm a developer focused on web technologies and hardware programming. I’ve built and published a [Portfolio](https://serial-commit-dev.github.io/My-Portfolio/) of my own using GitHub Pages, and I’m currently learning C++ through Arduino projects.
