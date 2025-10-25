@@ -2,13 +2,7 @@
   <img src="https://your-repo-link/assets/frontend-dev-neon.png" alt="Frontend Dev Neon Banner" />
 </p>
 
-<style>
-@keyframes pulse {
-  0% { text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14; }
-  50% { text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 30px #39ff14; }
-  100% { text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14; }
-}
-</style>
+
 
 # 👋 Hi, I'm Neeraj
 
