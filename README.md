@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Frontend+Dev" alt="Frontend Dev Typing Animation" />
+  <img src="https://your-repo-link/assets/frontend-dev-neon.png" alt="Frontend Dev Neon Banner" />
 </p>
 
 <style>
