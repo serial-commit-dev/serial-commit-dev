@@ -1,8 +1,6 @@
-<h1 align="center">
-  <span style="color:#39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14; animation: pulse 2s infinite;">
-    Frontend Dev
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Frontend+Dev" alt="Frontend Dev Typing Animation" />
+</p>
 
 <style>
 @keyframes pulse {
