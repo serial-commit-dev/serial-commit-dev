@@ -1,3 +1,17 @@
+<h1 align="center">
+  <span style="color:#39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14; animation: pulse 2s infinite;">
+    Frontend Dev
+  </span>
+</h1>
+
+<style>
+@keyframes pulse {
+  0% { text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14; }
+  50% { text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 30px #39ff14; }
+  100% { text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14; }
+}
+</style>
+
 # 👋 Hi, I'm Neeraj
 
 I'm a developer focused on web technologies and hardware programming. I’ve built and published a [Portfolio](https://serial-commit-dev.github.io/My-Portfolio/) of my own using GitHub Pages, and I’m currently learning C++ through Arduino projects.
