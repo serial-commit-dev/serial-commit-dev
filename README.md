@@ -26,7 +26,7 @@ I began with HTML and CSS and learn by building, experimenting, and using AI too
 
 ## 📊 Contributor Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=serial-commit-dev&theme=radical" alt="GitHub Streak"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=serial-commit-dev&theme=radical&show_icons=true" alt="GitHub Stats"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=serial-commit-dev&theme=radical&show_icons=true"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serial-commit-dev&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/></p>
 
 ---
