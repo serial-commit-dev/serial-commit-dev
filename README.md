@@ -36,7 +36,6 @@ I began with HTML and CSS and learn by building, experimenting, and using AI too
 - 🚀 Published my portfolio website using GitHub Pages  
 - 🔌 Built several Arduino projects and shared code on GitHub  
 - 📦 Contributed to open-source repositories  
-- 🎂 Celebrating my 16th birthday as a developer!  
 - 🌐 Built my first API-powered project with JavaScript and SheetDB
 
 ---
