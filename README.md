@@ -10,7 +10,7 @@ I began with HTML and CSS and learn by building, experimenting, and using AI too
 
 - Languages: HTML, CSS, C++
 - Platforms: GitHub Pages, Postman
-- IDEs: WebStorm
+- IDEs: WebStorm & VS Code
 - Hardware: Arduino (basic projects) — exploring Raspberry Pi
 
 ---
