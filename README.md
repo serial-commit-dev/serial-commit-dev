@@ -11,7 +11,7 @@ I began with HTML and CSS and learn by building, experimenting, and using AI too
 - Languages: HTML, CSS, C++
 - Platforms: GitHub & Postman
 - IDEs: WebStorm & VS Code
-- Hardware: Arduino (basic projects) — exploring Raspberry Pi
+- Hardware: Arduino (basic projects) — exploring ESP/Raspberry Pi
 
 ---
 
@@ -19,7 +19,7 @@ I began with HTML and CSS and learn by building, experimenting, and using AI too
 
 - Building responsive websites (HTML & CSS) and integrating APIs 
 - Programming Arduino with C++ 
-- Getting started with Raspberry Pi and IoT/API integration  
+- Getting started with ESP/Raspberry Pi and IoT/API integration  
 - Learning by hands-on experimentation, testing, and error-handling best practices
 - Learning JavaScript basics and applying it to frontend projects, mainly for API integrations and interactivity (working with HTTP methods: GET, POST, PUT, DELETE)
 ---
@@ -37,7 +37,6 @@ I began with HTML and CSS and learn by building, experimenting, and using AI too
 - 🚀 Published my portfolio website using GitHub Pages  
 - 🔌 Built several Arduino projects and shared code on GitHub  
 - 📦 Contributed to open-source repositories  
-- 🌐 Built my first API-powered project with JavaScript and SheetDB
 
 ---
 
