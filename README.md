@@ -9,7 +9,7 @@ I began with HTML and CSS and learn by building, experimenting, and using AI too
 ### 🛠️ Skills & Tools
 
 - Languages: HTML, CSS, C++
-- Platforms: GitHub Pages, Postman
+- Platforms: GitHub & Postman
 - IDEs: WebStorm & VS Code
 - Hardware: Arduino (basic projects) — exploring Raspberry Pi
 
