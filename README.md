@@ -2,7 +2,7 @@
 
 I'm a developer working with web technologies and hardware. I published my [Portfolio](https://serial-commit-dev.github.io/My-Portfolio/) via GitHub Pages and I'm learning C++ through Arduino projects.
 
-I began with HTML and CSS and learn by building, experimenting, and using AI tools. Next up: Raspberry Pi to grow my hardware and IoT skills.
+I began with HTML and CSS and learn by building, experimenting, and using AI tools. Next up: Raspberry Pi/ESP32 to grow my hardware and IoT skills.
 
 ---
 
