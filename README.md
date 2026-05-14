@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Neeraj
+#  Hey there, I'm Neeraj
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=164&section=header&text=serial-commit-dev&fontSize=50&animation=fadeIn" />
@@ -27,13 +27,6 @@
 
 ---
 
-### Contribution Movement
-<!-- This shows a snake eating your contribution pixels! -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/serial-commit-dev/serial-commit-dev/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
 
 ### Activity & Stats
 
