@@ -1,43 +1,56 @@
 # 👋 Hi, I'm Neeraj
 
-I'm a developer working with web technologies and hardware. I published my [Portfolio](https://serial-commit-dev.github.io/My-Portfolio/) via GitHub Pages and I'm learning C++ through Arduino projects.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=164&section=header&text=serial-commit-dev&fontSize=50&animation=fadeIn" />
+</p>
 
-I began with HTML and CSS and learn by building, experimenting, and using AI tools. Next up: Raspberry Pi/ESP32 to grow my hardware and IoT skills.
-
----
-
-### 🛠️ Skills & Tools
-
-- Languages: HTML, CSS, C++
-- Platforms: GitHub & Postman
-- IDEs: WebStorm & VS Code
-- Hardware: Arduino (basic projects) — exploring ESP/Raspberry Pi
+<p align="center">
+  <a href="https://github.com/serial-commit-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=IoT+%26+Hardware+Enthusiast;Mechatronics+Developer;Learning+in+Public" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 📚 Current Focus
+### Accomplishments
 
-- Building responsive websites (HTML & CSS) and integrating APIs 
-- Programming Arduino with C++ 
-- Getting started with ESP/Raspberry Pi and IoT/API integration  
-- Learning by hands-on experimentation, testing, and error-handling best practices
-- Learning JavaScript basics and applying it to frontend projects, mainly for API integrations and interactivity (working with HTTP methods: GET, POST, PUT, DELETE)
----
-
-## 📊 Contributor Stats
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=serial-commit-dev&theme=nord&bg_color=2e3440&hide_border=true" alt="Contribution Stats"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=serial-commit-dev&theme=radical" alt="GitHub Streak"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=serial-commit-dev&theme=radical&show_icons=true"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serial-commit-dev&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/></p>
+- **Hardware Iteration:** Successfully designed and shipped 5 stable releases of an electromagnetic induction prototype.
+- **Growth Tracking:** Managed and optimized a personal portfolio with data-driven analytics.
 
 ---
 
-## 🏆 Achievements
+### Tech Stack
 
-- 🚀 Published my portfolio website using GitHub Pages  
-- 🔌 Built several Arduino projects and shared code on GitHub  
-- 📦 Contributed to open-source repositories  
+- **Hardware:** ESP32, Arduino, Solenoids, MOSFET Switching
+- **Software:** C++, Vanilla JavaScript, HTML, CSS
+- **Tools:** GitHub, Postman, GA4, Linux/Ubuntu
 
 ---
 
-Thanks for visiting my profile!
+### Contribution Movement
+<!-- This shows a snake eating your contribution pixels! -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/serial-commit-dev/serial-commit-dev/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### Activity & Stats
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=serial-commit-dev&theme=nord&bg_color=0d1117&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serial-commit-dev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serial-commit-dev&theme=tokyonight&show_icons=true" alt="Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Public-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
